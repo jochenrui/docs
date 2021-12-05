@@ -1,1 +1,1 @@
-content/general/concepts/what-is-an-ide/what-is-an-ide.md
+content/general/concepts/who-is-john-carmack/who-is-john-carmack.md
