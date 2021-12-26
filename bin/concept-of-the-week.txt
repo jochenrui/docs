@@ -1,1 +1,1 @@
-content/java/concepts/random/random.md
+content/css/concepts/transition/transition.md
