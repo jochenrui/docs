@@ -1,1 +1,1 @@
-content/python/concepts/random-module/random-module.md
+content/javascript/concepts/variables/variables.md
