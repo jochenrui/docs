@@ -1,1 +1,1 @@
-content/general/concepts/what-is-next-js/what-is-next-js.md
+content/ruby/concepts/operators/operators.md
