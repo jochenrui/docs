@@ -1,1 +1,1 @@
-content/ruby/concepts/operators/operators.md
+content/cpp/concepts/objects/objects.md
