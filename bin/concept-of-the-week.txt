@@ -1,1 +1,1 @@
-content/cpp/concepts/objects/objects.md
+content/java/concepts/data-types/data-types.md
