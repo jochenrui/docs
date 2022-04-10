@@ -1,1 +1,1 @@
-content/general/concepts/what-is-a-bot/what-is-a-bot.md
+content/ruby/concepts/conditionals/conditionals.md
