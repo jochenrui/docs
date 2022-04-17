@@ -1,1 +1,1 @@
-content/ruby/concepts/conditionals/conditionals.md
+content/markdown/concepts/emphasis/emphasis.md
