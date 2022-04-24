@@ -1,1 +1,1 @@
-content/markdown/concepts/emphasis/emphasis.md
+content/sql/concepts/comments/comments.md
