@@ -1,1 +1,1 @@
-content/sql/concepts/comments/comments.md
+content/emojicode/concepts/operators/operators.md
