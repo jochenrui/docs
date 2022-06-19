@@ -1,1 +1,1 @@
-content/css/concepts/background/background.md
+content/general/concepts/who-is-ken-thompson/who-is-ken-thompson.md
