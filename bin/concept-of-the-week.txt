@@ -1,1 +1,1 @@
-content/javascript/concepts/events/events.md
+content/git/concepts/merge/merge.md
