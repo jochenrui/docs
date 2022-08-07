@@ -1,1 +1,1 @@
-content/emojicode/concepts/hello-world/hello-world.md
+content/python/concepts/operators/operators.md
