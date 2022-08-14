@@ -1,1 +1,1 @@
-content/python/concepts/operators/operators.md
+content/ruby/concepts/functions/functions.md
