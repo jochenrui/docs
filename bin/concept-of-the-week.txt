@@ -1,1 +1,1 @@
-content/java/concepts/comments/comments.md
+content/java/concepts/strings/strings.md
