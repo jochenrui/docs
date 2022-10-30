@@ -1,1 +1,1 @@
-content/typescript/concepts/about-typescript/about-typescript.md
+content/general/concepts/what-is-next-js/what-is-next-js.md
