@@ -1,1 +1,1 @@
-content/python/concepts/loops/loops.md
+content/javascript/concepts/substring/substring.md
