@@ -1,1 +1,1 @@
-content/emojicode/concepts/interpolation/interpolation.md
+content/typescript/concepts/functions/functions.md
