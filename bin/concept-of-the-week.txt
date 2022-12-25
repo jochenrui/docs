@@ -1,1 +1,1 @@
-content/typescript/concepts/functions/functions.md
+content/ruby/concepts/iterators/iterators.md
