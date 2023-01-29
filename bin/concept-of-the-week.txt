@@ -1,1 +1,1 @@
-content/emojicode/concepts/for-in/for-in.md
+content/general/concepts/what-is-an-error/what-is-an-error.md
