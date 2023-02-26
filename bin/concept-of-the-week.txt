@@ -1,1 +1,1 @@
-content/general/concepts/what-is-socket-io/what-is-socket-io.md
+content/general/concepts/what-is-iot/what-is-iot.md
