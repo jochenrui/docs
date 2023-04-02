@@ -1,1 +1,1 @@
-content/python/concepts/math-module/math-module.md
+content/javascript/concepts/number-methods/number-methods.md
