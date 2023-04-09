@@ -1,1 +1,1 @@
-content/javascript/concepts/number-methods/number-methods.md
+content/general/concepts/what-is-an-algorithm/what-is-an-algorithm.md
