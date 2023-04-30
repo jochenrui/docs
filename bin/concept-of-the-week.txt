@@ -1,1 +1,1 @@
-content/python/concepts/file-methods/file-methods.md
+content/php/concepts/classes/classes.md
