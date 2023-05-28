@@ -1,1 +1,1 @@
-content/java/concepts/inheritance/inheritance.md
+content/typescript/concepts/classes/classes.md
