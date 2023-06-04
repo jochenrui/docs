@@ -1,1 +1,1 @@
-content/typescript/concepts/classes/classes.md
+content/python/concepts/built-in-functions/built-in-functions.md
