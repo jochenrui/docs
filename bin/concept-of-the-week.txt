@@ -1,1 +1,1 @@
-content/python/concepts/built-in-functions/built-in-functions.md
+content/typescript/concepts/unions/unions.md
