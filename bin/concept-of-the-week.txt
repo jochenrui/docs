@@ -1,1 +1,1 @@
-content/typescript/concepts/unions/unions.md
+content/javascript/concepts/arrays/arrays.md
