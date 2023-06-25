@@ -1,1 +1,1 @@
-content/javascript/concepts/arrays/arrays.md
+content/general/concepts/who-is-john-carmack/who-is-john-carmack.md
