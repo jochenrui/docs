@@ -1,1 +1,1 @@
-content/c/concepts/arrays/arrays.md
+content/ruby/concepts/user-input/user-input.md
