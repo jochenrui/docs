@@ -1,1 +1,1 @@
-content/cpp/concepts/variables/variables.md
+content/general/concepts/what-is-a-server/what-is-a-server.md
