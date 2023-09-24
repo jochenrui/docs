@@ -1,1 +1,1 @@
-content/general/concepts/what-is-a-server/what-is-a-server.md
+content/css/concepts/background/background.md
