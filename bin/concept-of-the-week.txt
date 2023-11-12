@@ -1,1 +1,1 @@
-content/python/concepts/loops/loops.md
+content/html/concepts/semantic-html/semantic-html.md
