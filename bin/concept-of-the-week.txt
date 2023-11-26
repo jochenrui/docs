@@ -1,1 +1,1 @@
-content/react/concepts/props/props.md
+content/general/concepts/what-is-git/what-is-git.md
