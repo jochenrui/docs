@@ -1,1 +1,1 @@
-content/general/concepts/what-is-a-string/what-is-a-string.md
+content/swift/concepts/data-types/data-types.md
