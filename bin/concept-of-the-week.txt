@@ -1,1 +1,1 @@
-content/python/concepts/data-types/data-types.md
+content/css/concepts/comments/comments.md
