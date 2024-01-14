@@ -1,1 +1,1 @@
-content/css/concepts/comments/comments.md
+content/c/concepts/strings/strings.md
