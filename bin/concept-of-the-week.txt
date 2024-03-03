@@ -1,1 +1,1 @@
-content/swift/concepts/variables/variables.md
+content/swift/concepts/arrays/arrays.md
