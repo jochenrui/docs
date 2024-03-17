@@ -1,1 +1,1 @@
-content/typescript/concepts/functions/functions.md
+content/python/concepts/comments/comments.md
