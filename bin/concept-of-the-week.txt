@@ -1,1 +1,1 @@
-content/python/concepts/comments/comments.md
+content/markdown/concepts/tables/tables.md
