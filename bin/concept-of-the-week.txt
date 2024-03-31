@@ -1,1 +1,1 @@
-content/markdown/concepts/tables/tables.md
+content/typescript/concepts/tuples/tuples.md
