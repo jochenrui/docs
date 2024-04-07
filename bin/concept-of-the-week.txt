@@ -1,1 +1,1 @@
-content/typescript/concepts/tuples/tuples.md
+content/html/concepts/attributes/attributes.md
