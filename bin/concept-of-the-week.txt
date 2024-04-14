@@ -1,1 +1,1 @@
-content/html/concepts/attributes/attributes.md
+content/general/concepts/what-is-a-terminal/what-is-a-terminal.md
