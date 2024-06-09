@@ -1,1 +1,1 @@
-content/general/concepts/what-is-artificial-intelligence/what-is-artificial-intelligence.md
+content/python/concepts/tuples/tuples.md
