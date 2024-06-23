@@ -1,1 +1,1 @@
-content/css/concepts/selectors/selectors.md
+content/python/concepts/operators/operators.md
