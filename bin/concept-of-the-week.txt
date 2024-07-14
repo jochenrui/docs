@@ -1,1 +1,1 @@
-content/c/concepts/compiling/compiling.md
+content/general/concepts/what-is-a-cdn/what-is-a-cdn.md
