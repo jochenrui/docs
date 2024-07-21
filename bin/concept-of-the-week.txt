@@ -1,1 +1,1 @@
-content/general/concepts/what-is-a-cdn/what-is-a-cdn.md
+content/java/concepts/array-list/array-list.md
