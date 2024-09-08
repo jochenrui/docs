@@ -1,1 +1,1 @@
-content/react/concepts/hooks/hooks.md
+content/javascript/concepts/promise/promise.md
