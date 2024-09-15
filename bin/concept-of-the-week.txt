@@ -1,1 +1,1 @@
-content/javascript/concepts/promise/promise.md
+content/python/concepts/functions/functions.md
