@@ -1,1 +1,1 @@
-content/python/concepts/functions/functions.md
+content/javascript/concepts/strings/strings.md
