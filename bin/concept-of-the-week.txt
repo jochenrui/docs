@@ -1,1 +1,1 @@
-content/javascript/concepts/strings/strings.md
+content/general/concepts/what-is-jupyter-notebook/what-is-jupyter-notebook.md
