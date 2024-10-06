@@ -1,1 +1,1 @@
-content/general/concepts/what-is-jupyter-notebook/what-is-jupyter-notebook.md
+content/general/concepts/what-is-a-dictionary/what-is-a-dictionary.md
