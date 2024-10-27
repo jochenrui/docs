@@ -1,1 +1,1 @@
-content/cpp/concepts/bitwise-operators/bitwise-operators.md
+content/sql/concepts/dates/dates.md
