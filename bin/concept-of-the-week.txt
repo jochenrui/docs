@@ -1,1 +1,1 @@
-content/typescript/concepts/primitives/primitives.md
+content/cpp/concepts/switch/switch.md
