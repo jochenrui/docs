@@ -1,1 +1,1 @@
-content/cpp/concepts/switch/switch.md
+content/javascript/concepts/arrow-functions/arrow-functions.md
