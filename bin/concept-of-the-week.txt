@@ -1,1 +1,1 @@
-content/ruby/concepts/functions/functions.md
+content/cpp/concepts/comments/comments.md
