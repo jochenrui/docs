@@ -1,1 +1,1 @@
-content/css/concepts/margins/margins.md
+content/c/concepts/basic-output/basic-output.md
