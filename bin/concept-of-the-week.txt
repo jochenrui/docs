@@ -1,1 +1,1 @@
-content/c/concepts/basic-output/basic-output.md
+content/javascript/concepts/substring/substring.md
