@@ -1,1 +1,1 @@
-content/sql/concepts/indexes/indexes.md
+content/typescript/concepts/primitives/primitives.md
